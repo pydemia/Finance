@@ -1,11 +1,3 @@
-﻿,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
 Name,Source,Code
 "Fertilizers Index, 2000=100",WORLDBANK,WORLDBANK/WLD_IFERTILIZERS
 "Food Index, 2000=100",WORLDBANK,WORLDBANK/WLD_IFOOD
@@ -20,24 +12,3 @@ Name,Source,Code
 "Raw materials Index, 2000=100",WORLDBANK,WORLDBANK/WLD_IRAW_MATERIAL
 "2 Oth raw materials Index, 2000=100",WORLDBANK,WORLDBANK/WLD_IOTHERRAWMAT
 "Other food Index, 2000=100",WORLDBANK,WORLDBANK/WLD_IOTHERFOOD
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
