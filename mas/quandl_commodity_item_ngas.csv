@@ -1,11 +1,3 @@
-﻿,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
 Name,Source,Code
 NYMEX Natural Gas Futures,NYMEX,CHRIS/CME_NG1
 ICE UK Natural Gas Futures,ICE,CHRIS/ICE_M1
@@ -15,29 +7,3 @@ Henry Hub Natural Gas,ODA,ODA/PNGASUS_USD
 Japan Natural Gas,ODA,ODA/PNGASJP_USD
 "Natural Gas: Henry Hub, LA",FRED,FRED/GASPRICE
 Import (End Use): Gas-natural,FRED,FRED/IR10110
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
