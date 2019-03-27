@@ -1,0 +1,43 @@
+﻿Name,Source,Code
+"Gold, London A.M. Fixing",LBMA,LBMA/GOLD
+"Gold, London P.M. Fixing",LBMA,BMA/GOLD
+"Gold, World Gold Council",WGC,WGC/GOLD_DAILY_USD
+"Gold, Bundesbank",BUNDESBANK,BUNDESBANK/BBK01_WT5511
+"Gold, COMEX Gold Futures",COMEX,CHRIS/CME_GC1
+"Gold, Shanghai Gold Futures",SHFE,SHFE/AUV2013
+"Gold, World Bank",WORLDBANK,WORLDBANK/WLD_GOLD
+"Silver, London fixing, USD equivalent",LBMA,LBMA/SILVER
+"Silver, Shanghai Silver Futures",SHFE,SHFE/AGV2013
+"Silver, COMEX Silver Futures",COMEX,CHRIS/CME_SI1
+"Silver, World Bank",WORLDBANK,WORLDBANK/WLD_SILVER
+"Platinum, Johnson Mathey London",JOHNMATT,JOHNMATT/PLAT
+"Platinum, NYMEX Platinum Futures",NYMEX,CHRIS/CME_PL1
+"Palladium, Johnson Mathey London",JOHNMATT,JOHNMATT/PALL
+"Palladium, NYMEX Palladium Futures",NYMEX,CHRIS/CME_PA1
+Iridium,JOHNMATT,JOHNMATT/IRID
+Rhodium,JOHNMATT,JOHNMATT/RHOD
+Ruthenium,JOHNMATT,JOHNMATT/RUTH
+"Aluminum, LME",LME,LME/PR_AL
+"Aluminum, ODA",ODA,ODA/PALUM_USD
+Shanghai Aluminum Futures,SHFE,SHFE/ALV2013
+"Cobalt, LME",LME,LME/PR_CO
+"Copper, LME",LME,LME/PR_CU
+"Copper, ODA",ODA,ODA/PCOPP_USD
+Copper Futures,COMEX,CHRIS/CME_HG1
+Shanghai Copper Futures,SHFE,SHFE/CUV2013
+"Iron Ore, Tianjin (ODA)",ODA,ODA/PIORECR_USD
+"Lead, LME",LME,LME/PR_PB
+"Lead, ODA",ODA,ODA/PLEAD_USD
+Shanghai Lead Futures,SHFE,SHFE/PBV2013
+"Molybdenum, LME",LME,LME/PR_MO
+"Nickel, LME",LME,LME/PR_NI
+"Nickel, ODA",ODA,ODA/PNICK_USD
+"Steel Billet, LME",LME,LME/PR_FM
+Steel Wire,WORLDBANK,WORLDBANK/WLD_STL_JP_WIROD
+Shanghai Steel Rebar Futures,SHFE,SHFE/RBV2013
+Shanghai Steel Wire Futures,SHFE,SHFE/WRV2013
+"Tin, LME",LME,LME/PR_TN
+"Tin, ODA",ODA,ODA/PTIN_USD
+"Zinc, LME",LME,LME/PR_ZI
+"Zinc, ODA",ODA,ODA/PZINC_USD
+Shanghai Zinc Futures,SHFE,SHFE/ZNV2013

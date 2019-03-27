@@ -1,0 +1,43 @@
+﻿Name,Source,Code
+"Barley, Western Canada (ODA)",ODA,ODA/PBARL_USD
+"Barley, Western Canada (WB)",WORLDBANK,WORLDBANK/WLD_BARLEY
+"Corn, Top Flight Grain Co-op",TFGRAIN,TFGRAIN/CORN
+"Corn, CBOT Corn Futures",CME,CHRIS/CME_C1
+"Corn, U.S. Gulf Imports",WORLDBANK,WORLDBANK/WLD_MAIZE
+"Oats, CBOT Oats Futures",CME,CHRIS/CME_O1
+"Rice, Thailand (ODA)",ODA,ODA/PRICENPQ_USD
+"Rice, CBOT Rice Futures",CME,CHRIS/CME_RR1
+"Rice, Top Flight Grain Co-op",TFGRAIN,TFGRAIN/SOYBEANS
+"Soybean, CBOT Soybean Futures",CME,CHRIS/CME_S1
+"Soybean, CBOT Soybean Meal Futures",CME,CHRIS/CME_SM1
+"Wheat, Soybean Oil",WORLDBANK,WORLDBANK/WLD_SOYBEAN_OIL
+"Wheat, CBOT Soybean Oil Futures",CME,CHRIS/CME_BO1
+"Wheat, Gulf of Mexico",ODA,ODA/PWHEAMT_USD
+"Wheat, CBOT Wheat Futures",CME,CHRIS/CME_W1
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,

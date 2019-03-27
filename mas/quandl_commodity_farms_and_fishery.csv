@@ -1,0 +1,43 @@
+﻿Name,Source,Code
+"Dairy, CME Milk Futures",CME,CHRIS/CME_DA1
+"Cattle, Beef (ODA)",ODA,ODA/PBEEF_USD
+"Cattle, CME Live Cattle Futures",CME,CHRIS/CME_LC1
+"Cattle, CME Feeder Cattle Futures",CME,CHRIS/CME_FC1
+"Cattle, Hides, Chicago (ODA)",ODA,ODA/PHIDE_USD
+"Poulty, Chicken, Georgia (ODA)",ODA,ODA/PPOULT_USD
+"Pork, Pork, Chicago (ODA)",ODA,ODA/PPORK_USD
+"Pork, CME Lean Hog Futures",CME,CHRIS/CME_LN1
+"Fats, Lamb",ODA,ODA/PLAMB_USD
+Wool,ODA,ODA/PWOOLC_USD
+Salmon,ODA,ODA/PSALM_USD
+Shrimp,ODA,ODA/PSHRI_USD
+Fishmeal,ODA,ODA/PFISH_USD
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,

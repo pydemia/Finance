@@ -1,0 +1,43 @@
+﻿Name,Source,Code
+NYMEX RBOB Gasoline Futures,NYMEX,CHRIS/CME_RB1
+NYMEX Crude Oil Futures,NYMEX,CHRIS/CME_CL1
+ICE Brent Crude Oil Futures,ICE,CHRIS/ICE_B1
+U.S. Landed Costs of Canadian Light Sour Blend Crude Oil,DOE,DOE/I19263000008
+Los Angeles Reformulated RBOB Regular Gasoline Spot,DOE,DOE/EER_EPMRR_PF4_Y05LA_DPG
+"WTI Crude Oil Spot Cushing, OK FOB",DOE,DOE/RWTC
+Europe Brent Crude Oil Spot FOB,DOE,DOE/RBRTE
+U.S. FOB Costs of Non-OPEC Countries Crude Oil,DOE,DOE/I070000004
+U.S. FOB Costs of OPEC Countries Crude Oil,DOE,DOE/I060000004
+Crude Oils from 1861,BRP,BRP/CRUDE_OIL_PRICES
+OPEC Reference Basket,OPEC,OPEC/ORB
+Dubai Crude Oil,ODA,ODA/POILDUB_USD
+Blended Crude Oil,ODA,ODA/POILAPSP_USD
+WTI Crude Oil,ODA,ODA/POILWTI_USD
+Brent Crude Oil,ODA,ODA/POILBRE_USD
+Europe & Central Asia (all income levels): Pump for gasoline (US$ per liter),WORLDBANK,WORLDBANK/ECS_EP_PMP_SGAS_CD
+US Midgrade Conventional Gas,FRED,FRED/GASMIDCOVW
+"Conventional Gasolines: New York Harbor, Regular",FRED,FRED/DGASNYH
+US Regular Conventional Gas,FRED,FRED/GASREGCOVW
+"Conventional Gasolines: U.S. Gulf Coast, Regular",FRED,FRED/DGASUSGULF
+Consumer Index for All Urban Consumers: Gasoline (all types),FRED,FRED/CUUR0000SETB01
+US All Grades Conventional Gas,FRED,FRED/GASALLCOVW
+US Premium Conventional Gas,FRED,FRED/GASPRMCOVW
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
